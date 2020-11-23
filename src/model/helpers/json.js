@@ -15,7 +15,7 @@ const NON_MODEL_COLLECTIONS = {
     translations: [],
     deliveryChannels: ['programNotificationTemplate', 'dataSetNotificationTemplate'],
     redirectUris: ['oAuth2Client'],
-    organisationUnitLevels: ['validationRule'],
+    organisationUnitLevels: ['validationRule', 'approvalValidationRule'],
     favorites: [],
 };
 
